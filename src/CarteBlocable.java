@@ -119,6 +119,10 @@ public class CarteBlocable {
         return b;
     }
 
+    public boolean etreBloque() {
+        return bloque;
+    }
+
     /**
      * Méthode toString de la classe CarteB
      * @return une chaîne de caractères représentant la carte
