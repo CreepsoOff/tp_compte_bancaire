@@ -4,7 +4,15 @@
  * @see CarteBlocable
  */
 public class Personne {
+
+    /**
+     * Attribut représentant le nom de la personne
+     */
     private String nom;
+
+    /**
+     * Attribut représentant le prénom de la personne
+     */
     private CarteBlocable carte;
 
     /**
